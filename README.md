@@ -13,3 +13,4 @@ Este proyecto implementa un sistema de validación de **DNI** utilizando **socke
 ---
 
 ## 📂 Estructura del Proyecto
+![image](https://github.com/user-attachments/assets/37d591cc-34d4-4ebc-a7a3-c500ae8d8314)
